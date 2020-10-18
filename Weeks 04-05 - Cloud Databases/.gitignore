@@ -1,0 +1,6 @@
+Messaging App/functions/node_modules
+.firebaserc
+firebase-debug.log
+.firebase
+Messaging App/functions/index.js
+sample_messages.json
