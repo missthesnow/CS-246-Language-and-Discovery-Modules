@@ -29,3 +29,15 @@ Database Query Example:
 
 * [SQLite Documentation](https://sqlite.org/docs.html)
 * [Python Reference](https://docs.python.org/release/3.8.5/)
+
+# Need to Add/Update
+
+Planning on adding command-line support for:
+
+* Employee Creation
+
+* Database Queries
+
+* Updating Pay
+
+* Deleting Employees
