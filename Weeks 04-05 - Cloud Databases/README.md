@@ -2,7 +2,6 @@
 
 This repository holds all the necessary parts to create a simple messaging web app. It demonstrates the use of Google Firebase using Node.js
 
-
 # Development Environment
 
 * Visual Studio Code

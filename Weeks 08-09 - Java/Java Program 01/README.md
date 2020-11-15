@@ -7,7 +7,6 @@ This program will determine if a year input by the user is a Leap Year. It demon
 * Visual Studio Code
 * Java 1.8.0_231
 
-
 # Execution
 
 To execute the program: `java LeapYear.java`

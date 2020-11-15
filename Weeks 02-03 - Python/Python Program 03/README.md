@@ -2,7 +2,6 @@
 
 This program will say hello to "like 3 people." It demonstrates the use of Python with Visual Studio Code and Github.
 
-
 # Development Environment
 
 * Visual Studio Code
