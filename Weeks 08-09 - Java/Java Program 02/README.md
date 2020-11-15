@@ -17,3 +17,4 @@ To execute the program: `java Calculator.java`
 # Useful Websites
 
 * [Java Reference](https://docs.oracle.com/en/java/)
+* [Visual Studio Code Java Integration](https://code.visualstudio.com/docs/languages/java)
