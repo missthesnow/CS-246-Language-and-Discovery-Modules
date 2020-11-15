@@ -2,7 +2,6 @@
 
 This program will perform actions of a basic calculator. It demonstrates the use of Java with Visual Studio Code.
 
-
 # Development Environment
 
 * Visual Studio Code
